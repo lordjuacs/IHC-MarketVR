@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="cristiano" size="4.000000 5.310345" />
+    <ImageTarget name="neymar1" size="4.000000 5.299578" />
+    <ImageTarget name="mbappe" size="4.000000 5.194805" />
+    <ImageTarget name="messi" size="4.000000 5.416481" />
+  </Tracking>
+</QCARConfig>
