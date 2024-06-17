@@ -73,9 +73,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/Oculus/
 # End of https://www.toptal.com/developers/gitignore/api/unity
-
-# Other large files
-Assets/Editor/Migration/com.ptc.vuforia.engine-10.22.5.tgz
-Packages/com.ptc.vuforia.engine-10.22.5.tgz 
